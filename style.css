@@ -1,0 +1,29 @@
+.jumbotron {
+  padding: 2rem;
+  background-color: #000000;
+}
+
+.color4 {
+  color: #ff4c29;
+}
+
+.textcolor {
+  color: #dbdbdb;
+}
+
+.heading1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 46px;
+  line-height: 56px;
+  letter-spacing: -0.017em;
+  color: #e5e5e5;
+}
+
+.heading2 {
+  color: #ff4c29;
+  font-style: normal;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 36px;
+}
